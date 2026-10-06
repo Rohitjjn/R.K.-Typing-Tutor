@@ -1,15 +1,15 @@
 {
-  "version": "2.0.44",
-  "notes": "R.K. Typing Tutor v2.0.44",
-  "pub_date": "2026-10-04T17:55:05Z",
+  "version": "2.0.45",
+  "notes": "R.K. Typing Tutor v2.0.45",
+  "pub_date": "2026-10-06T06:15:35Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaHpqYkFEM3hHYzc0bFNFMVZXOXdwdS9jWCttcHoyb2hQYWVWRkQ0N0NlclR5eHB2TDRPSHMySVErcHR4L2x1Nm1QcUFlTC9MNks5d3p3bjFJWkNsSWY5TitIM3BJZXdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMTM3NjA1CWZpbGU6Ui5LLlR5cGluZy5UdXRvcl8yLjAuNDRfeDY0LXNldHVwLmV4ZQpFUjlDOElReUt2eXpCcDhPU2lJSnR2UytrUFd0ODBkUnFIK1E0aWRoeXEvV3N0RmtaMkdSZFo5QTNuZ2ZkaitSM1IxNTR6cDZoeU9ib29oOGlqTXdCQT09Cg==",
-      "url": "https://github.com/Rohitjjn/R.K.-Typing-Tutor/releases/download/v2.0.44/R.K.Typing.Tutor_2.0.44_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaHpqYkFEM3hHYzJRK08vUWt0KzNGUktFVmNuNERTNmJJaGU5elF6V3BWVWpxb1Z1bDduQ2t2Tm5NMDdWa3Y4YTlCWnlNWFNTQkoveGxsd1UyblByd1ZJVU5ZdG44TFFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMjY4MzQxCWZpbGU6Ui5LLlR5cGluZy5UdXRvcl8yLjAuNDVfeDY0LXNldHVwLmV4ZQpEU3pDQzd2cTJnNWRVRUhKUFN4K2VvUG5rd2hmcWwvaTl4QTJ2K1F1YjBKMUhqNmpHUm50M1pmbFlVQ3lXY24vNDMzd2ZZWXF2ekV2RVEyVHBxSDdEZz09Cg==",
+      "url": "https://github.com/Rohitjjn/R.K.-Typing-Tutor/releases/download/v2.0.45/R.K.Typing.Tutor_2.0.45_x64-setup.exe"
     },
     "windows-i686": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaHpqYkFEM3hHYzM4cVI1dVBFTVBvN2RmVzlSZWF3ZEZVb0J0VVdOeW54VVZOOTlaK1MyZ2hzMmFNTzRYMUVkL2s5ditUUTFHNCtVSmd2Y2JSeTVmNlRMVkQ1N2FnWHdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMTM3NjE2CWZpbGU6Ui5LLlR5cGluZy5UdXRvcl8yLjAuNDRfeDg2LXNldHVwLmV4ZQpaRzVCcmFMMkthcm50bkRZdU81R0xtblhLWG82UW9HYlA4N2JrZG1Id3dOUENqRERheGtNRFJpdHA3ZDJPQStTcEY1Vm5MQnhwN2V5THY4T3A3MzhBdz09Cg==",
-      "url": "https://github.com/Rohitjjn/R.K.-Typing-Tutor/releases/download/v2.0.44/R.K.Typing.Tutor_2.0.44_x86-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTaHpqYkFEM3hHYy9zdWFPTDIyVGsvWndxNC9QNWNpUzJhTVQ0U1BKcnAxbFJKVFpRVnlsM1NwczQ4UGZZUHVsSWdGVXFPdEFReTdhbTdDcmxTZEU5azhDV0VYV1BHY2dzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMjY4MDYwCWZpbGU6Ui5LLlR5cGluZy5UdXRvcl8yLjAuNDVfeDg2LXNldHVwLmV4ZQpLZys0Ky9WRHBPTEsvR25DMEJJak9YOXlKb1c1WHZHS1RzVm5QNHU2cWRjSGFYMFRFZXl4TFdrSnpNaXY3L0MreTh5VXV2ekRBeW5yaGRJQUhoOEtDQT09Cg==",
+      "url": "https://github.com/Rohitjjn/R.K.-Typing-Tutor/releases/download/v2.0.45/R.K.Typing.Tutor_2.0.45_x86-setup.exe"
     }
   }
 }
